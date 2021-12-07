@@ -35,12 +35,12 @@ body{
 #bandeau {
     display: flex;
     justify-content: start;
-    padding: 5px;
     background: linear-gradient(90deg,rgb(32, 189, 129), rgb(31, 125, 168))
 }
 
 img {
 border-radius: 50%;
+border: solid 3px white;
 }
 
 .texte {
